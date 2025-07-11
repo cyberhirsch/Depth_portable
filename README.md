@@ -52,7 +52,7 @@ This step will take several minutes and requires an internet connection.
 
 ## How to Use
 
-1.  Double-click **`Run_Depth_Portable.bat`**.
+1.  Double-click **`run.bat`**.
 2.  A command prompt window will appear and start the local web server.
 3.  Once you see the message `Running on local URL: http://127.0.0.1:7860`, open your web browser and navigate to that address.
 4.  Use the interface to generate your depth maps and other outputs!
