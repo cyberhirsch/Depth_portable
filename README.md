@@ -40,18 +40,7 @@ This application requires a specific "embeddable" version of Python.
 *   Rename the extracted folder to `python-3.10.11-embed-amd64`.
 *   Place this folder inside the main project directory, alongside the `stable-diffusion-webui-depthmap-script-main` folder.
 
-Your final folder structure should look like this:
-Markdown
-Portable-Depth-Map-UI/
-├── python-3.10.11-embed-amd64/
-│ ├── python.exe
-│ └── ... (other python files)
-└── stable-diffusion-webui-depthmap-script-main/
-├── gui.py
-└── ... (other script files)
-├── Run_Depth_Portable.bat
-├── setup.bat
-└── README.md
+
 Generated code
 **4. Run the Setup Script**
 
