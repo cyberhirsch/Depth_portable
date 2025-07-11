@@ -1,6 +1,6 @@
 # Portable Standalone Depth Map UI
 
-![UI Screenshot]([https://raw.githubusercontent.com/cyberhirsch/Depth_portable/screenshot/screenshot.png])
+![UI Screenshot](https://raw.githubusercontent.com/cyberhirsch/Depth_portable/main/screenshot/screenshot.png)
 
 This project provides a portable, standalone graphical user interface (GUI) for the powerful **[stable-diffusion-webui-depthmap-script](https://github.com/thygate/stable-diffusion-webui-depthmap-script)**. It allows you to generate depth maps, 3D stereo images, normal maps, and even 3D meshes from a single image, all from a self-contained folder that can be run on any Windows machine without a full installation of Stable Diffusion WebUI.
 
